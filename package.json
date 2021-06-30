@@ -1,0 +1,19 @@
+{
+  "name": "drzzlserver",
+  "version": "1.0.0",
+  "description": "This is the express webserver for drzzle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbc12instructor/DrzzlServer.git"
+  },
+  "author": "Eric Harrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbc12instructor/DrzzlServer/issues"
+  },
+  "homepage": "https://github.com/cbc12instructor/DrzzlServer#readme"
+}
